@@ -4,4 +4,8 @@ pasta
 burger
 pizza
 
+
+juices
+dosas
+
 Thanks! :)
