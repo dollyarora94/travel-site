@@ -4,6 +4,13 @@ pasta
 burger
 pizza
 
+
+juices
+dosas
+
 Thanks! :)
+
+Done with my changes
+
 
 Final Copy
